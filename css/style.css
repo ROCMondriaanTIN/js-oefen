@@ -17,3 +17,11 @@
 .card{
     border: 1px solid black;
 }
+
+.card-even{
+    border: 5px solid green;
+}
+
+.card-odd{
+    border: 5px solid red;
+}
